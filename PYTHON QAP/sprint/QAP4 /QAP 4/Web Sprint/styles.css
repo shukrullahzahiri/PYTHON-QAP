@@ -1,0 +1,172 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.mainbox {
+  width: 1000px;
+  height: 90px; /* will be removed once page is complete */
+  background-color: black;
+  margin: 0px;
+  text-align: left;
+  float:left ;
+}
+
+.mainpage {
+  width: 200px;
+  height: 75px;
+  background-color: black;
+  text-align: left;
+  float: left;
+  color: white;
+  text-align: left;
+}
+
+.navbox {
+  width: 700px;
+  height: 75px;
+  background-color: black;
+  padding-top: 30px;
+  text-align: left;
+  float: left;
+}
+
+nav a:link {
+  color: white;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  font-size: 11pt;
+}
+
+nav a:visited {
+  color: lightgoldenrodyellow;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  font-size: 11pt;
+}
+
+nav a:hover {
+  color: lightgoldenrodyellow;
+  text-decoration: underline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  font-size: 11pt;
+}
+
+
+.yummybox {
+  width: 1000px;
+  height: 250px;
+  text-align: left;
+  float: left;
+}
+.yummytext{
+  font-family: "Comic Sans MS";
+  font-size: 24pt;
+  color: white;
+  
+}
+
+.Whyusleft {
+  width: 1000px;
+  height: 125px;
+  padding-top: 120px;
+  margin-bottom: 80px;
+  float: left;
+  text-align: left;
+  padding-bottom: 10px;
+}
+.dishboxes{
+  width: 333px;
+  height: 80px;
+  background-color: black;
+  padding-right: 16px;
+  padding-left: 16px;
+  padding-bottom: 16px;
+  border:2px solid white;
+  border-radius: 10px;
+  text-align: left;
+  margin-top: 2px;
+  float:left;
+
+}
+
+
+.Whyuslefttext {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 16pt;
+  color: white;
+  text-align: left;
+  
+}
+
+.Whyusrighttext {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 12pt;
+  color:white;
+}
+
+.boldtext {
+  font-weight: 500;
+}
+
+.whiteboldtext {
+  color: white;
+  font-weight: 500;
+}
+.brownboldtext {
+  color: brown;
+  font-weight: 500;
+}
+.yellowboldtext{
+color:yellow;
+font-weight: 700;
+}
+.redtextbold{
+  color:red;
+  font-weight: 100; 
+}
+.picturebox {
+  width: 1000px;
+  height: 150px;
+ padding-top: 4px;
+  margin: 2px;
+  
+  float: left;
+  text-align: left;
+}
+
+.cookbox {
+  width: 1000px;
+  height: 150px;
+  background-color: white;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  
+  float: left;
+  text-align: left;
+}
+
+.footerbox {
+  width: 1000px;
+  height: 50px;
+  background-color: black;
+  margin-top:8px;
+  margin-bottom: 10px;
+  float: left;
+  text-align: left;
+  padding-top: 12px;
+}
+.yummyrestaurant{
+  text-align: left;
+  float: left;
+  padding-top: 15px;
+  margin-top: 10px;
+}
